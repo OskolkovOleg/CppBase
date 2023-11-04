@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CppBase.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
+    <None Include="keyboard-shortcuts.pdf">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
   </ItemGroup>
 </Project>
