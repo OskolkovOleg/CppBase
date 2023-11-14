@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\2.2.5.Algoritms">
+      <UniqueIdentifier>{c4618092-1941-46f0-85db-b6007b965357}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\2.2.3.Methods">
+      <UniqueIdentifier>{f8923757-b7d4-4839-903f-2cc075b32afb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2.2.0.C-style.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.1.Create.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.2.Operations.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.4.InOutput.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.3.4.Other.cpp">
+      <Filter>Исходные файлы\2.2.3.Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.3.1.Elements.cpp">
+      <Filter>Исходные файлы\2.2.3.Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.3.3.Memory.cpp">
+      <Filter>Исходные файлы\2.2.3.Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.3.2.SubStr.cpp">
+      <Filter>Исходные файлы\2.2.3.Methods</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.5.1.Reverse.cpp">
+      <Filter>Исходные файлы\2.2.5.Algoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.5.2.Count&amp;Find.cpp">
+      <Filter>Исходные файлы\2.2.5.Algoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.5.3.Register.cpp">
+      <Filter>Исходные файлы\2.2.5.Algoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.5.4.isNumber.cpp">
+      <Filter>Исходные файлы\2.2.5.Algoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.5.5.Int&amp;Float.cpp">
+      <Filter>Исходные файлы\2.2.5.Algoritms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.6.Format.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

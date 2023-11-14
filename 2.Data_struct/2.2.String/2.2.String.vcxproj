@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57806e07-7d98-4df2-adef-15969cdc2899}</ProjectGuid>
-    <RootNamespace>vars</RootNamespace>
+    <ProjectGuid>{a3ae35cb-2912-4e0d-99c5-a70aa61dae3d}</ProjectGuid>
+    <RootNamespace>My22String</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,9 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.2.auto.cpp" />
-    <ClCompile Include="1.1.1.variables.cpp" />
-    <ClCompile Include="1.1.2.Type_casting.cpp" />
+    <ClCompile Include="2.2.1.Create.cpp" />
+    <ClCompile Include="2.2.2.Operations.cpp" />
+    <ClCompile Include="2.2.3.4.Other.cpp" />
+    <ClCompile Include="2.2.3.1.Elements.cpp" />
+    <ClCompile Include="2.2.3.3.Memory.cpp" />
+    <ClCompile Include="2.2.3.2.SubStr.cpp" />
+    <ClCompile Include="2.2.4.InOutput.cpp" />
+    <ClCompile Include="2.2.5.1.Reverse.cpp" />
+    <ClCompile Include="2.2.0.C-style.cpp" />
+    <ClCompile Include="2.2.5.2.Count&amp;Find.cpp" />
+    <ClCompile Include="2.2.5.3.Register.cpp" />
+    <ClCompile Include="2.2.5.4.isNumber.cpp" />
+    <ClCompile Include="2.2.5.5.Int&amp;Float.cpp" />
+    <ClCompile Include="2.2.6.Format.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

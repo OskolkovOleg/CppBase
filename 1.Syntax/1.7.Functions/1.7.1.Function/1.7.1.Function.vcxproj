@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57806e07-7d98-4df2-adef-15969cdc2899}</ProjectGuid>
-    <RootNamespace>vars</RootNamespace>
+    <ProjectGuid>{1cc1341f-ae77-4a9e-ba95-f8b33f9bd78a}</ProjectGuid>
+    <RootNamespace>My171Function</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,9 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.2.auto.cpp" />
-    <ClCompile Include="1.1.1.variables.cpp" />
-    <ClCompile Include="1.1.2.Type_casting.cpp" />
+    <ClCompile Include="1.7.1.3.Default_parameters.cpp" />
+    <ClCompile Include="1.7.1.6.Higher_order.cpp" />
+    <ClCompile Include="1.7.1.4.Overload.cpp" />
+    <ClCompile Include="1.7.1.2.Recursion.cpp" />
+    <ClCompile Include="1.7.1.1.Standart.cpp" />
+    <ClCompile Include="1.7.1.5.Variable.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

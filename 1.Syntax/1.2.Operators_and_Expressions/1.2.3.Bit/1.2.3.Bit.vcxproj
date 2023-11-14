@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57806e07-7d98-4df2-adef-15969cdc2899}</ProjectGuid>
-    <RootNamespace>vars</RootNamespace>
+    <ProjectGuid>{836d4375-5d63-4fa8-8e6a-117ca09ea604}</ProjectGuid>
+    <RootNamespace>My123Bit</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,9 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.2.auto.cpp" />
-    <ClCompile Include="1.1.1.variables.cpp" />
-    <ClCompile Include="1.1.2.Type_casting.cpp" />
+    <ClCompile Include="1.2.3.Bit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

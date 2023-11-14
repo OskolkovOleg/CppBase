@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{57806e07-7d98-4df2-adef-15969cdc2899}</ProjectGuid>
-    <RootNamespace>vars</RootNamespace>
+    <ProjectGuid>{fb297d28-3600-43ac-89eb-b562e8237f3e}</ProjectGuid>
+    <RootNamespace>My23Vectors</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,9 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.2.auto.cpp" />
-    <ClCompile Include="1.1.1.variables.cpp" />
-    <ClCompile Include="1.1.2.Type_casting.cpp" />
+    <ClCompile Include="2.3.1.Create.cpp" />
+    <ClCompile Include="2.3.2.InOutPut.cpp" />
+    <ClCompile Include="libs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
