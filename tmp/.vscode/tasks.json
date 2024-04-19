@@ -8,16 +8,19 @@
                 "/Zi",
                 "/EHsc",
                 "/nologo",
-                "/Fe${fileDirname}\\build\\${fileBasenameNoExtension}.exe",
+                "/Fe${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "${file}"
             ],
             "options": {
-                "cwd": "${fileDirname}\\build"
+                "cwd": "${fileDirname}"
             },
             "problemMatcher": [
                 "$msCompile"
             ],
-            "group": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
             "detail": "Задача создана отладчиком."
         }
     ],

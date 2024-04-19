@@ -129,7 +129,14 @@
   <ItemGroup>
     <ClCompile Include="2.3.1.Create.cpp" />
     <ClCompile Include="2.3.2.InOutPut.cpp" />
-    <ClCompile Include="libs.cpp" />
+    <ClCompile Include="2.3.3.1.Sort.cpp" />
+    <ClCompile Include="2.3.3.2.Find.cpp" />
+    <ClCompile Include="2.3.3.3.DelDubl.cpp" />
+    <ClCompile Include="2.3.3.4.Reverse.cpp" />
+    <ClCompile Include="2.3.4.Elements.cpp" />
+    <ClCompile Include="2.3.6.Iteration.cpp" />
+    <ClCompile Include="2.3.5.Memory.cpp" />
+    <ClCompile Include="2.3.7.Multidimensional.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

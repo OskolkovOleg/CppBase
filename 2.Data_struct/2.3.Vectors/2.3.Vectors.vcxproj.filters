@@ -9,15 +9,39 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\2.3.3.Algorithms">
+      <UniqueIdentifier>{2488d32c-cfd7-4473-b4e7-58ac5f105b57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2.3.1.Create.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="libs.cpp">
+    <ClCompile Include="2.3.2.InOutPut.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="2.3.2.InOutPut.cpp">
+    <ClCompile Include="2.3.3.1.Sort.cpp">
+      <Filter>Исходные файлы\2.3.3.Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.4.Elements.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.5.Memory.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.6.Iteration.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.3.2.Find.cpp">
+      <Filter>Исходные файлы\2.3.3.Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.3.3.DelDubl.cpp">
+      <Filter>Исходные файлы\2.3.3.Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.3.4.Reverse.cpp">
+      <Filter>Исходные файлы\2.3.3.Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="2.3.7.Multidimensional.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

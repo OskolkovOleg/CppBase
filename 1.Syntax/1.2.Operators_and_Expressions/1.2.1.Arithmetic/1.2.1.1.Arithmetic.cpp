@@ -94,7 +94,7 @@ int main() {
 //	int roundedNum = static_cast<int>(std::floor(a));
 //	std::cout << "Округленное число вниз: " << roundedNum << std::endl;
 
-//	//5.4 Округление вниз ф-ция ceil -> double
+//	//5.4 Округление вверх ф-ция ceil -> double
 //#include <cmath>
 //	double a = 3.15;
 //	int roundedNum = static_cast<int>(std::ceil(a));
