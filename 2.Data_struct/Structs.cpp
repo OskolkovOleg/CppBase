@@ -1,8 +1,8 @@
-//// Структуры 
+//// РЎС‚СЂСѓРєС‚СѓСЂС‹ 
 //#include <iostream>
 //using namespace std;
 //
-////constexpr auto N = 4; // Намного безопаснее
+////constexpr auto N = 4; // РќР°РјРЅРѕРіРѕ Р±РµР·РѕРїР°СЃРЅРµРµ
 ////
 ////struct tag_book {
 ////	char title[100];
@@ -16,14 +16,14 @@
 ////	setlocale(LC_ALL, "rus");
 ////
 ////	struct tag_book lib[N]{};
-////	strcpy_s(lib[0].title, "Евгений Онегин");
-////	strcpy_s(lib[0].author, "Пушкин А. С.");
+////	strcpy_s(lib[0].title, "Р•РІРіРµРЅРёР№ РћРЅРµРіРёРЅ");
+////	strcpy_s(lib[0].author, "РџСѓС€РєРёРЅ Рђ. РЎ.");
 ////	lib[0].year = 2001;
 ////	lib[0].pages = 81;
 ////	lib[0].price = 145.51;
 ////
-////	strcpy_s(lib[1].title, "Война и мир");
-////	strcpy_s(lib[1].author, "Толстой Л. Н.");
+////	strcpy_s(lib[1].title, "Р’РѕР№РЅР° Рё РјРёСЂ");
+////	strcpy_s(lib[1].author, "РўРѕР»СЃС‚РѕР№ Р›. Рќ.");
 ////	lib[1].year = 2011;
 ////	lib[1].pages = 654;
 ////	lib[1].price = 1025.11;
@@ -49,7 +49,7 @@
 ////};
 ////
 ////struct tag_people {
-////	struct tag_fio fio; //Вложенная стрктура
+////	struct tag_fio fio; //Р’Р»РѕР¶РµРЅРЅР°СЏ СЃС‚СЂРєС‚СѓСЂР°
 ////	char job[100];
 ////	short old;
 ////};
@@ -64,9 +64,9 @@
 ////
 ////	tag_people p[N];
 ////
-////	strcpy_s(p[0].fio.firstname, "Олег");
-////	strcpy_s(p[0].fio.lastname, "Осколков");
-////	strcpy_s(p[0].job, "Нету");
+////	strcpy_s(p[0].fio.firstname, "РћР»РµРі");
+////	strcpy_s(p[0].fio.lastname, "РћСЃРєРѕР»РєРѕРІ");
+////	strcpy_s(p[0].job, "РќРµС‚Сѓ");
 ////	p[0].old = 28;
 ////
 ////	p[1] = p[0];
@@ -82,7 +82,7 @@
 //struct tag_var {
 //	static int vi;
 //	static double vd;
-//	short vs; // Автоматическая
+//	short vs; // РђРІС‚РѕРјР°С‚РёС‡РµСЃРєР°СЏ
 //};
 //
 //int tag_var::vi = 0;
